@@ -1,12 +1,19 @@
 Pasos necesarios para iniciar la aplicación (Responde a Cómo ejecutar el proyecto) 
 
-Instalar el SDK de .NET 9 mediante el siguiente enlace: 
+Instalar (si no se tiene instalado) el SDK de .NET 9 mediante el siguiente enlace: 
 https://dotnet.microsoft.com/es-es/download/dotnet/thank-you/sdk-9.0.302-windows-x64-installer 
 
-Clonar el proyecto usando la URL
-https://github.com/JonattanVarg/ToDoAppJonattanVargas.git
+Instalar (si no se tiene instalado) nodejs
+https://nodejs.org/dist/v20.17.0/node-v20.17.0-x64.msi
 
-Podemos abrir la carpeta con visual studio code o la preferencia
+Asegurarse de tener Git instalado 
+Abrir una terminal o consola (CMD, PowerShell o Git Bash) y ubicarse en donde se quiere obtener la carpeta del proyecto
+Ejecutar
+git clone https://github.com/JonattanVarg/ToDoAppJonattanVargas.git
+Ubicarse dentro de la carpeta del proyecto
+cd ToDoAppJonattanVargas
+
+Podemos abrir la carpeta con visual studio code y usar la terminal, o la de su preferencia
 Y ejecutamos para correr la web api .net 9
 
 cd backend/API
@@ -15,7 +22,9 @@ dotnet restore
 dotnet build
 dotnet watch run
 
-Y ejecutamos las siguientes para correr el cliente angular 18
+Y finalmente tendremos la API corriendo en http://localhost:5000/swagger/index.html
+
+Ahora ejecutamos las siguientes para correr el cliente angular 18
 
 cd frontend
 npm install
