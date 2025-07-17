@@ -1,5 +1,5 @@
 Jonattan Stivent Vargas Camacho
-WhatsApp y llamadas: 350 379 7480 | 320 606 4727
+WhatsApp y llamadas: 350 379 7480 | 320 606 4627
 
 Sientase libre de comunicarse, quedo atento
 
