@@ -30,6 +30,13 @@ cd frontend
 npm install
 npm start
 
+*** Adelanto de la presentación PowerPoint USUARIO INICIAL PARA LOGIN (se pueden registar más si se desea)
+Correo Electrónico
+adminuser@gmail.com​
+
+Contraseña: 
+P@ssw0rd5​
+
 Cómo ejecutar las pruebas > la opción recomendable sería abrir la solución API con visual studio, hacer click derecho en el proyecto API.Tests y seleccionar "Ejecutar Pruebas"
 
 Decisiones técnicas tomadas > Por favor revisar la presentación PowerPoint, allí también se encuentra las credenciales de un usuario listo para poder loguearse en la aplicación
